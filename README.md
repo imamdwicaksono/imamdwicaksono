@@ -11,8 +11,8 @@
 <br/>
 
 <!-- Social Badges -->
-[![GitHub followers](https://img.shields.io/github/followers/imam.dwicaksono?label=Followers&style=for-the-badge&color=58A6FF&labelColor=0d1117)](https://github.com/imam.dwicaksono)
-[![Profile Views](https://komarev.com/ghpvc/?username=imam.dwicaksono&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)](https://github.com/imam.dwicaksono)
+[![GitHub followers](https://img.shields.io/github/followers/imamdwicaksono?label=Followers&style=for-the-badge&color=58A6FF&labelColor=0d1117)](https://github.com/imam.dwicaksono)
+[![Profile Views](https://komarev.com/ghpvc/?username=imamdwicaksono&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)](https://github.com/imam.dwicaksono)
 
 </div>
 

@@ -4,15 +4,15 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=imam.dwicaksono&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
 <!-- Typing Animation -->
-<a href="https://github.com/imam-dwicaksono">
+<a href="https://github.com/imam.dwicaksono">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Fullstack+Developer+%F0%9F%9A%80;Go+%7C+Python+%7C+PHP+Laravel+%7C+Rust;Building+robust+%26+scalable+systems;Clean+Code+Enthusiast+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- Social Badges -->
-[![GitHub followers](https://img.shields.io/github/followers/imam-dwicaksono?label=Followers&style=for-the-badge&color=58A6FF&labelColor=0d1117)](https://github.com/imam-dwicaksono)
-[![Profile Views](https://komarev.com/ghpvc/?username=imam-dwicaksono&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)](https://github.com/imam-dwicaksono)
+[![GitHub followers](https://img.shields.io/github/followers/imam.dwicaksono?label=Followers&style=for-the-badge&color=58A6FF&labelColor=0d1117)](https://github.com/imam.dwicaksono)
+[![Profile Views](https://komarev.com/ghpvc/?username=imam.dwicaksono&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)](https://github.com/imam.dwicaksono)
 
 </div>
 
@@ -100,14 +100,14 @@ func main() {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=imam-dwicaksono&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imam-dwicaksono&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=imam.dwicaksono&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imam.dwicaksono&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=imam-dwicaksono&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=imam.dwicaksono&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF)](https://git.io/streak-stats)
 
 </div>
 
@@ -117,7 +117,7 @@ func main() {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=imam-dwicaksono&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=imam.dwicaksono&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -127,7 +127,7 @@ func main() {
 
 <div align="center">
 
-[![Imam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=imam-dwicaksono&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Imam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=imam.dwicaksono&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -139,8 +139,8 @@ func main() {
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=imam-dwicaksono&repo=NAMA_REPO_1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9)](https://github.com/imam-dwicaksono)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=imam-dwicaksono&repo=NAMA_REPO_2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9)](https://github.com/imam-dwicaksono)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=imam.dwicaksono&repo=NAMA_REPO_1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9)](https://github.com/imam.dwicaksono)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=imam.dwicaksono&repo=NAMA_REPO_2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9)](https://github.com/imam.dwicaksono)
 
 </div>
 
@@ -150,9 +150,9 @@ func main() {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/imam-dwicaksono)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imam.dwicaksono@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imam-dwicaksono)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/imamdwicaksono)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bonjolman@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imamdwicaksono)
 
 </div>
 
